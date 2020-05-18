@@ -1,0 +1,14 @@
+{
+  "title": "授課時間",
+  "Asia/Taipei": "台北",
+  "Asia/Hong_Kong": "香港",
+  "captionPrefix": "* 時間以 ",
+  "captionSufix": "顯示",
+  "Sun": "日",
+  "Mon": "一",
+  "Tue": "二",
+  "Wed": "三",
+  "Thu": "四",
+  "Fri": "五",
+  "Sat": "六"
+}

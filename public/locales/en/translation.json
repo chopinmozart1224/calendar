@@ -1,0 +1,14 @@
+{
+  "title": "Available times",
+  "Asia/Taipei": "Taipe",
+  "Asia/Hong_Kong": "Hong Kong",
+  "captionPrefix": "* Your timezone: ",
+  "captionSufix": "",
+  "Sun": "Sun",
+  "Mon": "Mon",
+  "Tue": "Tue",
+  "Wed": "Wed",
+  "Thu": "Thu",
+  "Fri": "Fri",
+  "Sat": "Sat"
+}
